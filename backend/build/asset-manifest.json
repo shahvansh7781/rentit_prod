@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67e8dcc9.css",
+    "main.js": "/static/js/main.80114965.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/car2.png": "/static/media/car2.633ed39a51380ef2f672.png",
+    "static/media/create_car.png": "/static/media/create_car.06b360ef479eb1fcfc08.png",
+    "static/media/car1.png": "/static/media/car1.f1b647218ffa9f7ca29d.png",
+    "static/media/car3.png": "/static/media/car3.f50cf9562ca039cc95b4.png",
+    "static/media/car-img.png": "/static/media/car-img.d4c7695b0d27d754cc81.png",
+    "static/media/rent_side.png": "/static/media/rent_side.845f95f80d74e252e077.png",
+    "static/media/logo.png": "/static/media/logo.f00a30a48e2510676df0.png",
+    "static/media/bg.webp": "/static/media/bg.67f78c659bca593e6b8c.webp",
+    "static/media/uimg1.png": "/static/media/uimg1.b9dbb2cd594c4f45f421.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.67e8dcc9.css.map": "/static/css/main.67e8dcc9.css.map",
+    "main.80114965.js.map": "/static/js/main.80114965.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e8dcc9.css",
+    "static/js/main.80114965.js"
+  ]
+}
